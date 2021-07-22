@@ -24,6 +24,8 @@
         android:layout_marginBottom="20dp"
         android:clickable="true"
         android:src="@android:drawable/stat_notify_sync"
+        app:backgroundTint="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tint="#E0E0E0" />
 </androidx.constraintlayout.widget.ConstraintLayout>

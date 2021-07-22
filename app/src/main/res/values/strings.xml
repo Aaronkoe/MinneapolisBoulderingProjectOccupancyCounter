@@ -9,4 +9,5 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mbp_occupancy_gauge_url">https://portal.rockgympro.com/portal/public/18a5ea0176c6494befd44f163f15750c/occupancy</string>
 </resources>

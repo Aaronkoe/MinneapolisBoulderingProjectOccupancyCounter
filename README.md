@@ -3,7 +3,7 @@ A very simple Android app for viewing the current occupancy of Minneapolis Bould
 
 The app is powered by an HTML widget from https://minneapolisboulderingproject.com/occupancy which is located at: https://portal.rockgympro.com/portal/public/18a5ea0176c6494befd44f163f15750c/occupancy
 
-Ex: [Screenshot](mpb_count_screenshot.png?raw=true)
+Ex: ![Screenshot](mpb_count_screenshot.png?raw=true "Screenshot")
 
 The widget is animated and indicates the datetime the data was last updated. According to the source code of the website, the capacity is +400, but about 200 and the place is going to be real crowded.
 

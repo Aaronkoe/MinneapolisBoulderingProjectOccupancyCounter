@@ -31,7 +31,7 @@ To build the app:
 
 3. Ensure SDK 30.0.3 is installed with SDK Manager in the Tools tab in the upper left
 
-4. Build to an apk via *Build* > *Build Bundle(s) / APK(s)* > *Build APK(s)
+4. Build to an apk via *Build* > *Build Bundle(s) / APK(s)* > *Build APK(s)*
 
 5. Open the directory the apk was built to, for me it was `app/build/outputs/apk/debug/`
 
